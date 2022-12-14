@@ -1,0 +1,12 @@
+[package]
+name = "gtk_keyboard_events_listener"
+version = "0.1.0"
+edition = "2021"
+authors = ["Mike AntonovMA@outlook.com"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+glib = "0.15.12"
+gdk = "0.15.4"
+gtk = "0.15.5"
