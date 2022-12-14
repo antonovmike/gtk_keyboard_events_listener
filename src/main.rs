@@ -4,7 +4,7 @@ mod gui;
 
 fn main() {
     let application = gtk::Application::new(
-        Some("com.github.gtk-rs.calculator_gtk"),
+        Some("com.github.gtk-rs.gtk_keyboard_events_listener"),
         Default::default(),
     );
 
